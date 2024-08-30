@@ -35,7 +35,7 @@ Bem-vindo ao guia de contribuição do projeto! Este documento fornece diretrize
 - **Criando um Pull Request:**
   1. Faça suas mudanças em um branch específico.
   2. Crie um PR na aba "Pull Requests" e vincule-o à issue correspondente.
-  3. Descreva suas mudanças e adicione reviewers.
+  3. Descreva suas mudanças e adicione reviewers. 
 
 Para mais informações, consulte a [documentação oficial do GitHub sobre issues e pull requests](https://docs.github.com/en/issues).
 
