@@ -10,4 +10,4 @@
 ## Checklists
 - [ ] Código compila sem erros
 - [ ] Testes foram realizados
-- [ ] A documentação foi atualizada (se aplicável)
+- [ ] A documentação foi atualizada (se aplicável) 
